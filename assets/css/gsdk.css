@@ -5,7 +5,13 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, .navbar, .brand, .btn-s
   font-family: "Helvetica Neue","Open Sans",Arial,sans-serif; }
 
   .buffer{
-    height: 15rem;
+    height: 18rem;
+  }
+  .buffer2{
+    height: 1rem;
+  }
+  .buffer3{
+    height: 20rem;
   }
 h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   font-weight: 400;
