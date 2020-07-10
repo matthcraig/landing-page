@@ -1,96 +1,40 @@
-# [Get Shit Done Kit - Free Bootstrap UI Kit](http://demos.creative-tim.com/get-shit-done/index.html)
+# _Example Organization Landing Page_
 
-![Get Shit Done Kit](http://s3.amazonaws.com/creativetim_bucket/products/17/original/GSDK_thumbnail3.png?1431435570 "Get Shit Done Kit")
+#### _A site for a hypothetical organization, June, 2020_
 
-Free Bootstrap 3 UI Kit, the best starting point for any online project you are building. It magically offers responsive design and easy to use elements. It has became a trademark for the online community of a clean and nice looking interface.
+#### By _**Matthew Craig**_
 
-Using Bootstrap straight out of the box doesn't solve design. The team behind Creative Tim strongly believes in this argument and has made this kit following this perspective. Customisation is vital for any project using Bootstrap.
+## Description
 
-So how can you enjoy the Bootstrap benefits and have a facelift for your project? Simply import the Get Shit Done Kit into your project or start building on top of it. It easy to use and integrate.
+_This program is built using a Bootstrap Template, and is setup for a hypothetical Organization_
 
+## Setup/Installation Requirements
 
-## Links:
-
-+ [Live Preview](http://demos.creative-tim.com/get-shit-done/index.html)
-+ [Get Shit Done PRO](http://gsdk.creative-tim.com/) (from $39)
-
-## Quick start
-
-Quick start options:
-
-- [Download from Github](https://github.com/creativetimofficial/get-shit-done).
-- [Download from Creative Tim](http://www.creative-tim.com/product/get-shit-done-kit).
-- Clone the repo: `git clone https://github.com/creativetimofficial/get-shit-done`.
+* Clone repository using this link: https://github.com/mgcraig78/landing-page
+* Go to the terminal and navigate to your desktop, using the command $ cd desktop
+* Navigate to the project folder, using the command $ cd rogobor
+* Open in a text editor (Atom, Visual Studio Code, or similar). For Visual Studio Code, use the command $ code .
+* To preview this project in your browser, use the terminal command $ open index.html
 
 
-### What's included
+## Known Bugs
 
-Within the download you'll find the following directories and files:
+_No known bugs_
 
-```
-get-shit-done/
-├── assets/
-│   ├── css/
-│   │   ├── demo.css
-│   │   └── gsdk.css
-│   ├── img/
-│   ├── js/
-│   │   ├── custom.js
-│   │   ├── get-shit-done.js
-│   │   ├── gsdk-bootstrapswitch.js
-│   │   ├── gsdk-checkbox.js
-│   │   ├── gsdk-radio.js
-│   │   ├── jquery-ui-1.10.4.custom.min.js
-│   │   └── presentation-page
-│   └── sass/
-│       ├── gsdk/
-│       └── gsdk.scss
-├── bootstrap3/
-├── components.html
-├── index.html
-├── jquery
-├── navbar-transparent.html
-├── notification.html
-├── template.html
-└── tutorial.html
+## Support and contact details
 
-```
+_Matthew Craig: mgcraig78@gmail.com_
 
-### Version logs
+## Technologies Used
 
-- V1.0.0 - 09.05.2014 Initial Release
-- V1.1.0 - 22.09.2014 Added discount for Get Shit Done Kit PRO
-- V1.2.0 - 30.04.2015 Bug Fixing and documentation changes
-- V1.3.0 - 30.01.2016 Small updates
-- V1.4.0 - 01.08.2016 Added SASS files
-- V1.4.1 - 18.01.2017 Switched to MIT license [current version]
+_html, css, bootstrap, javascript, jquery_
 
-## License
+## Web address
 
- - Copyright 2017 Creative Tim (http://www.creative-tim.com)
- - Licensed under MIT (https://github.com/timcreative/get-shit-done/blob/master/LICENSE.md)
+https://mgcraig78.github.io/landing-page
 
+### License
 
-## Useful Links
+*MIT License*
 
-More products from Creative Tim: <http://www.creative-tim.com/products>
-
-Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
-
-Freebies: <http://www.creative-tim.com/products>
-
-Affiliate Program (earn money): <http://www.creative-tim.com/affiliates/new>
-
-Social Media:
-
-Twitter: <https://twitter.com/CreativeTim>
-
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
-      
-
+Copyright (c) 2020 **_Matthew Craig_**
